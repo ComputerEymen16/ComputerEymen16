@@ -1,4 +1,3 @@
-# About-me
 # Greetings! I'm Eymen 👋 (Computer Eymen)
 
 I'm a future computer engineer and software developer. I enjoy being close to hardware, understanding how code communicates with machines, and spending time in the Linux terminal. Currently, I'm focusing on my academic goals while continuing to improve myself in the software world (I'm currently actively learning C).
