@@ -6,14 +6,14 @@ I'm a future computer engineer and software developer. I enjoy being close to ha
 In the software world, I take inspiration from **Linus Torvalds**'s approach to system architecture and **Terry A. Davis**'s passion for independent development at the operating system level. Following in their footsteps, I aim to master the deepest aspects of the system.
 
 ## 🚀 About Me
-- 💻 **My Focus:** Solving system logic and developing high-performance applications using the C programming language.
-- 🐧 **Operating System:** Terminal-focused Linux distributions, far removed from the complexity of Windows.
+- 💻 **My Focus:** To decipher system logic and develop high-performance applications using the C programming language.
+- 🐧 **Operating System:** My preference is **Fedora Linux**. I'm in a terminal-focused and open-source software world, far from the complexities of Windows.
 - 🛠️ **What I'm Doing Right Now:** Optimizing the software projects I'm developing (especially my calculator projects with different versions) and exploring new technologies.
 - 📺 **Content Creation:** Sharing educational videos about my software and programming processes on YouTube.
 
 ## 🛠️ Skills & Tools
 - **Languages:** C, HTML, CSS, JavaScript (Learning)
-- **Tools & Environments:** GCC, Linux CLI, Git & GitHub, VirtualBox
+- **Tools & Environments:** Fedora Linux, GCC, Linux CLI, Git & GitHub, VirtualBox
 
 ## 📈 Current Projects
 * **Calculator Series:** My C-based projects that start with basic logic and grow with input validation, advanced operator support, and upcoming GUI versions.
