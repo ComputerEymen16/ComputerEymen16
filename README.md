@@ -1,5 +1,7 @@
 # Greetings! I'm Eymen 👋 (Computer Eymen)
 
+# Calculator 3.1v is on its way, features are a surprise.
+
 I'm a future computer engineer and software developer. I enjoy being close to hardware, understanding how code communicates with machines, and spending time in the Linux terminal.
 
 ## 🧠 Vision & Inspiration
