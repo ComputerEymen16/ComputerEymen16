@@ -9,7 +9,7 @@ In the software world, I take inspiration from **Linus Torvalds**'s approach to 
 
 ## 🚀 About Me
 - 💻 **My Focus:** To decipher system logic and develop high-performance applications using the C programming language.
-- 🐧 **Operating System:** My preference is **Fedora Linux**. I'm in a terminal-focused and open-source software world, far from the complexities of Windows.
+- 🐧 **Operating System:** My preference is **Debian Linux**. I'm in a terminal-focused and open-source software world, far from the complexities of Windows.
 - 🛠️ **What I'm Doing Right Now:** Optimizing the software projects I'm developing (especially my calculator projects with different versions) and exploring new technologies.
 - 📺 **Content Creation:** Sharing educational videos about my software and programming processes on YouTube.
 
